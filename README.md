@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# PRINCY FRANCIS   •   Resume
+[📧 JHU](mailto:pfranc10@jh.edu) • [📧 NIH](mailto:francisp2@nih.gov)  • [📧 Gmail](mailto:princyfrancis24@gmail.com) <br>
++1 301 xxx xxxx • MD, USA
 
-You can use the [editor on GitHub](https://github.com/francisp24/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Expertise
+### Bioinformatics and Genomics
+Analysis of DNA and RNA sequencing, including genome sequence assembly, sequence alignment, variant calling, genome annotation, visualization, and inspection of genome assemblies, variants, and rearrangements. Developed ABySS 2.0 to assemble twenty gigabase conifer genomes, seven times the size of human.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Sequencing Technologies and Genomic Assays
+10x Genomics Chromium, Illumina HiSeq, Oxford Nanopore, Bionano Genomics
 
-### Markdown
+### Programming Languages
+Java, Python, R, shell
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Cloud and Containerization
+AWS, Docker
 
-```markdown
-Syntax highlighted code block
+### Version Control
+Git and GitHub
 
-# Header 1
-## Header 2
-### Header 3
+## Experience
+Bioinformatics volunteer
+Postdoctoral Researcher
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/francisp24/digital-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Education
+Bioinformatics volunteer
+Postdoctoral Researcher
