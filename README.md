@@ -6,30 +6,30 @@
 
 ## EXPERIENCE
 • **Special Volunteer in Bioinformatics** <br>
-_2019 - present_  |  Stem Cell Translation Laboratory, NCATS, NIH, Rockville, Maryland
+_2019 - present_  |  Stem Cell Translation Laboratory, NCATS, NIH, Rockville, MD, USA
 
 • **Senior Research Fellow** <br>
-_2013 - 2015_  |  Mayo Clinic Cancer Center, Scottsdale, Arizona, USA <br>
+_2013 - 2015_  |  Mayo Clinic Cancer Center, Scottsdale, AZ, USA <br>
 MENTOR: Dr. Michael T. Barrett, Ph.D
 
 • **Post-Doctoral Researcher** <br>
-_2007 - 2012_  |  Genetics Branch, NCI, NIH, Bethesda, Maryland <br>
-MENTOR: Dr. Paul S. Meltzer, M.D., Ph.D. <br>
-<br>
+_2007 - 2012_  |  Genetics Branch, NCI, NIH, Bethesda, MD, USA <br>
+MENTOR: Dr. Paul S. Meltzer, M.D., Ph.D.
+<br><br>
 
 ## EDUCATION
 • **MSc Bioinformatics** <br>
-_2018 - present_  |  Advanced Academic Programs, Krieger School of Arts & Sciences, Johns Hopkins University, Baltimore, MD
+_2018 - present_  |  Advanced Academic Programs, Krieger School of Arts & Sciences, Johns Hopkins University, Baltimore, MD, USA
 
 • **PhD Experimental Oncology** <br>
-_2003 - 2007_  |  Department of Oncology, Institute for Clinical Sciences, Lund University Hospital, Lund, Sweden.
+_2003 - 2007_  |  Department of Oncology, Institute for Clinical Sciences, Lund University Hospital, Lund, Sweden
 
 • **MSc Applied Genetics** <br>
-_1999 - 2001_  |  Centre for Applied Genetics, Bangalore University, Jnana Bharathi, Bangalore, Karnataka, India
+_1999 - 2001_  |  Centre for Applied Genetics, Bangalore University, Jnana Bharathi, Bangalore, India
 
 • **BSc Chemistry, Zoology, Microbiology** <br>
-_1996 - 1999_  |  B.H.S. First Grade College, Bangalore University, Jayanagar, Bangalore, Karnataka, India <br>
-<br>
+_1996 - 1999_  |  B.H.S. First Grade College, Bangalore University, Jayanagar, Bangalore, India
+<br><br>
 
 ## ADDITIONAL TRAINING
 • **Lab Assistant** <br>
@@ -39,8 +39,8 @@ _Nov 2001 – Jan 2003_  |  Department of Biochemistry, Indian Institute of Scie
 _Aug 2001 – Oct 2001_  | Department of Cell Biology and Microbiology, IISc, Bangalore, India <br>
   
 • **Advanced Certification Course in Bioinformatics** <br>
-_May 2001 – Jul 2001_  |  Manvish Infotech Limited, Bangalore, Karnataka, India <br>
-<br>
+_May 2001 – Jul 2001_  |  Manvish Infotech Limited, Bangalore, Karnataka, India
+<br><br>
 
 ## EXPERTISE
 • **Sequencing technologies and genomic assays:** 10x Genomics Chromium, Illumina HiSeq
