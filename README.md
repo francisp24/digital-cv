@@ -5,15 +5,42 @@
 <br><br>
 
 ## EXPERIENCE
-• Bioinformatics Trainee <br>
+• **Special Volunteer in Bioinformatics** <br>
+_Sep 2019 - present_  |  Stem Cell Translation Laboratory, NCATS, NIH, Rockville, Maryland
 
-• Senior Research Fellow <br>
-Feb 2013 to Feb 2015  |. Mayo Clinic Cancer Center, Scottsdale, Arizona, USA <br>
+• **Senior Research Fellow** <br>
+_Feb 2013 to Feb 2015_  |  Mayo Clinic Cancer Center, Scottsdale, Arizona, USA <br>
 MENTOR: Dr. Michael T. Barrett, Ph.D
 
-• Post-doctoral Researcher <br>
-Oct 2007 - Dec 2012  |  Genetics Branch, National Cancer Institute (NCI), National Institutes of Health (NIH), Bethesda, Maryland <br>
+• **Post-Doctoral Researcher** <br>
+_Oct 2007 - Dec 2012_  |  Genetics Branch, NCI, NIH, Bethesda, Maryland <br>
 MENTOR: Dr. Paul S. Meltzer, M.D., Ph.D. <br>
+<br>
+
+## EDUCATION
+• **MSc Bioinformatics** <br>
+_2018 - present_  |  Advanced Academic Programs, Krieger School of Arts & Sciences, Johns Hopkins University, Baltimore, MD
+
+• **PhD Experimental Oncology** <br>
+_2003 - 2007_  |  Department of Oncology, Institute for Clinical Sciences, Lund University Hospital, Lund, Sweden.
+
+• **MSc Applied Genetics** <br>
+_1999 - 2001_  |  Centre for Applied Genetics, Bangalore University, Jnana Bharathi, Bangalore, Karnataka, India
+
+• **BSc Chemistry, Zoology, Microbiology** <br>
+_1996 - 1999_  |  B.H.S. First Grade College, Bangalore University, Jayanagar, Bangalore, Karnataka, India <br>
+<br>
+
+## ADDITIONAL TRAINING
+• **Lab Assistant** <br>
+_Nov 2001 – Jan 2003_  |  Department of Biochemistry, Indian Institute of Science (IISc), Bangalore, India <br>
+  
+• **Computational Analysis of Microarray** Data <br>
+_Aug 2001 – Oct 2001_  | Department of Cell Biology and Microbiology, IISc, Bangalore, India <br>
+  
+• **Advanced Certification Course in Bioinformatics** <br>
+_May 2001 – Jul 2001_  |  Manvish Infotech Limited, Bangalore, Karnataka, India <br>
+<br>
 
 ## EXPERTISE
 ### Bioinformatics and Genomics
@@ -32,31 +59,7 @@ Web design:
 HTML5, CSS, Django, JS
 Cluster computing
 
-## EDUCATION
-• MSc Bioinformatics <br>
-2018 - current  |  Advanced Academic Programs, Krieger School of Arts & Sciences, Johns Hopkins University, Baltimore, MD
-
-• PhD Experimental Oncology <br>
-2003 - 2007  |  Department of Oncology, Institute for Clinical Sciences, Lund University Hospital, Lund, Sweden.
-
-• MSc Applied Genetics <br>
-1999 - 2001  |  Centre for Applied Genetics, Bangalore University, Jnana Bharathi, Bangalore, Karnataka, India
-
-• BSc Chemistry, Zoology, Microbiology <br>
-1996 - 1999  |  B.H.S. First Grade College, Bangalore University, Jayanagar, Bangalore, Karnataka, India
-
-
-## ADDITIONAL TRAINING
-• Lab Assistant <br>
-Nov 2001 – Jan 2003  |  Department of Biochemistry, Indian Institute of Science (IISc), Bangalore, India <br>
-  
-• Computational Analysis of Microarray Data <br>
-Aug 2001 – Oct 2001  | Department of Cell Biology and Microbiology, IISc, Bangalore, India <br>
-  
-• Advanced Certification Course in Bioinformatics <br>
-May 2001 – Jul 2001  |  Manvish Infotech Limited, Bangalore, Karnataka, India <br>
-
-
+<br><br>
 ## PUBLICATIONS
 • Gindin Y, Jiang Y, Francis P, Walker RL, Abaan OD, Zhu YJ, Meltzer PS. Mir-23a impairs bone differentiation in osteosarcoma via down-regulation of GJA1. Front Genet. 2015 Jul 2.
 
