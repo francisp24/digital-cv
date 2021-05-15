@@ -43,23 +43,22 @@ _May 2001 – Jul 2001_  |  Manvish Infotech Limited, Bangalore, Karnataka, Indi
 <br>
 
 ## EXPERTISE
-### Bioinformatics and Genomics
-Analysis of DNA and RNA sequencing, including genome sequence assembly, sequence alignment, variant calling, genome annotation, visualization, and inspection of genome assemblies, variants, and rearrangements. Developed ABySS 2.0 to assemble twenty gigabase conifer genomes, seven times the size of human.
-### Sequencing Technologies and Genomic Assays
-10x Genomics Chromium, Illumina HiSeq
-### Programming Languages
-Java, Python, R, Shell
-### Cloud and Containerization
-AWS, Docker
-### Version Control
-Git and GitHub
-### Visualisation:
-Jupyter, R
-Web design:
-HTML5, CSS, Django, JS
-Cluster computing
-
+• **Sequencing technologies and genomic assays:** 10x Genomics Chromium, Illumina HiSeq
+• **NGS anaysis:** Analysis of DNA and RNA sequencing, genome sequence assembly, sequence alignment, variant calling, genome annotation, visualization, variant calling etc.
+• **Microarray data analysis:** GenePix Pro, BASE, Cluster, TreeView, TM4 MultiExperiment Viewer, Agilent Feature Extraction, GeneSpring GX, Agilent CGH Analytics, Agilent Genomic Workbench, BioDiscovery Nexus Expression, Nexus Copy Number, GenomeStudio, BeadStudio
+• **Next-generation sequencing:** Integrative Genomics Viewer, Integrated Genome Browser
+• **Pathway analysis:** DAVID EASE, Ingenuity IPA, BIOCARTA, GenMAPP, ExPASy, KEGG
+• **Genomics and sequence analysis tools:** UCSC Genome Browser, Ensembl, GENSCAN, miRBase, GEO, eMOTIF, TransFAC Search, PromoterScan, ClustalW and other alignment tools, Primer3, Vector NTI, Sequencher, Mutation Surveyor, ImageJ
+• **Programming Languages:** Java, Python, R, Shell
+• **Ploud and Containerization:** AWS, Docker
+• **PVersion Control: Git and GitHub
+• **Visualisation: Jupyter, R
+• **Web design:** HTML5, CSS, JS
+• **Cluster computing:** 
+• **Operating Systems:** UNIX, Windows, Macintosh
+• **Other software:** EndNote, Adobe Photoshop, Adobe Illustrator
 <br><br>
+
 ## PUBLICATIONS
 • Gindin Y, Jiang Y, Francis P, Walker RL, Abaan OD, Zhu YJ, Meltzer PS. _Mir-23a impairs bone differentiation in osteosarcoma via down-regulation of GJA1._ Front Genet. 2015 Jul 2.
 
