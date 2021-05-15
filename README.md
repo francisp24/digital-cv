@@ -5,8 +5,8 @@
 <br><br>
 
 ## EXPERIENCE
-• **Special Volunteer in Bioinformatics** <br>
-_2019 - present_  |  Stem Cell Translation Laboratory, NCATS, NIH, Rockville, MD, USA
+**Special Volunteer in Bioinformatics** • _2019 - present_ <br>
+Stem Cell Translation Laboratory, NCATS, NIH, Rockville, MD, USA
 
 • **Senior Research Fellow** <br>
 _2013 - 2015_  |  Mayo Clinic Cancer Center, Scottsdale, AZ, USA <br>
