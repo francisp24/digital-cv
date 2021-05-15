@@ -6,14 +6,14 @@
 
 ## EXPERIENCE
 • **Special Volunteer in Bioinformatics** <br>
-_Sep 2019 - present_  |  Stem Cell Translation Laboratory, NCATS, NIH, Rockville, Maryland
+_2019 - present_  |  Stem Cell Translation Laboratory, NCATS, NIH, Rockville, Maryland
 
 • **Senior Research Fellow** <br>
-_Feb 2013 to Feb 2015_  |  Mayo Clinic Cancer Center, Scottsdale, Arizona, USA <br>
+_2013 - 2015_  |  Mayo Clinic Cancer Center, Scottsdale, Arizona, USA <br>
 MENTOR: Dr. Michael T. Barrett, Ph.D
 
 • **Post-Doctoral Researcher** <br>
-_Oct 2007 - Dec 2012_  |  Genetics Branch, NCI, NIH, Bethesda, Maryland <br>
+_2007 - 2012_  |  Genetics Branch, NCI, NIH, Bethesda, Maryland <br>
 MENTOR: Dr. Paul S. Meltzer, M.D., Ph.D. <br>
 <br>
 
