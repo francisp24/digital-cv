@@ -5,41 +5,41 @@
 <br><br>
 
 ## EXPERIENCE
-• [_2019 - present_] **Special Volunteer in Bioinformatics** <br>
+• **Special Volunteer in Bioinformatics** [_2019 - present_] <br>
 Stem Cell Translation Laboratory, NCATS, NIH, Rockville, MD, USA
 
-• [_2013 - 2015_] **Senior Research Fellow** <br>
+• **Senior Research Fellow** [_2013 - 2015_] <br>
 Mayo Clinic Cancer Center, Scottsdale, AZ, USA <br>
 MENTOR: Dr. Michael T. Barrett, Ph.D
 
-• [_2007 - 2012_] **Post-Doctoral Researcher** <br>
+• **Post-Doctoral Researcher** [_2007 - 2012_] <br>
 Genetics Branch, NCI, NIH, Bethesda, MD, USA <br>
 MENTOR: Dr. Paul S. Meltzer, M.D., Ph.D.
 <br><br>
 
 ## EDUCATION
-• [_2018 - present_] **MSc Bioinformatics** <br>
+• **MSc Bioinformatics** [_2018 - present_] <br>
 Advanced Academic Programs, Krieger School of Arts & Sciences, Johns Hopkins University, Baltimore, MD, USA
 
-• [_2003 - 2007_] **PhD Experimental Oncology** <br>
+• **PhD Experimental Oncology** [_2003 - 2007_] <br>
 Department of Oncology, Institute for Clinical Sciences, Lund University Hospital, Lund, Sweden
 
-• [_1999 - 2001_] **MSc Applied Genetics** <br>
+• **MSc Applied Genetics** [_1999 - 2001_] <br>
 Centre for Applied Genetics, Bangalore University, Jnana Bharathi, Bangalore, India
 
-• [_1996 - 1999_] **BSc Chemistry, Zoology, Microbiology** <br>
+• **BSc Chemistry, Zoology, Microbiology** [_1996 - 1999_] <br>
 B.H.S. First Grade College, Bangalore University, Jayanagar, Bangalore, India
 <br><br>
 
 ## ADDITIONAL TRAINING
-• [_Nov 2001 – Jan 2003_] **Lab Assistant** <br>
+• **Lab Assistant** [_Nov 2001 – Jan 2003_] <br>
 Department of Biochemistry, Indian Institute of Science (IISc), Bangalore, India <br>
   
-• **Computational Analysis of Microarray** Data <br>
-_Aug 2001 – Oct 2001_  | Department of Cell Biology and Microbiology, IISc, Bangalore, India <br>
+• **Computational Analysis of Microarray Data** [_Aug 2001 – Oct 2001_] <br>
+Department of Cell Biology and Microbiology, IISc, Bangalore, India <br>
   
-• **Advanced Certification Course in Bioinformatics** <br>
-_May 2001 – Jul 2001_  |  Manvish Infotech Limited, Bangalore, Karnataka, India
+• **Advanced Certification Course in Bioinformatics** [_May 2001 – Jul 2001_] <br>
+Manvish Infotech Limited, Bangalore, Karnataka, India
 <br><br>
 
 ## EXPERTISE
