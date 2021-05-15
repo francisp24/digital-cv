@@ -5,11 +5,11 @@
 <br><br>
 
 ## EXPERIENCE
-**Special Volunteer in Bioinformatics** • _2019 - present_ <br>
+• **Special Volunteer in Bioinformatics** [_2019 - present_] <br>
 Stem Cell Translation Laboratory, NCATS, NIH, Rockville, MD, USA
 
-• **Senior Research Fellow** <br>
-_2013 - 2015_  |  Mayo Clinic Cancer Center, Scottsdale, AZ, USA <br>
+• **Senior Research Fellow** [_2013 - 2015_] <br>
+Mayo Clinic Cancer Center, Scottsdale, AZ, USA <br>
 MENTOR: Dr. Michael T. Barrett, Ph.D
 
 • **Post-Doctoral Researcher** <br>
