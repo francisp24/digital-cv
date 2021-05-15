@@ -2,45 +2,48 @@
 # PRINCY FRANCIS   •   CV
 [📧 JHU](mailto:pfranc10@jh.edu) • [📧 NIH](mailto:francisp2@nih.gov)  • [📧 Gmail](mailto:princyfrancis24@gmail.com) <br>
 ☏ +1 301 646 4414 • MD, USA
-<br><br><br>
+<br><br>
 
 ## EXPERIENCE
-Bioinformatics volunteer
-Postdoctoral Researcher
+• Bioinformatics Trainee <br>
+
+• Senior Research Fellow <br>
+Feb 2013 to Feb 2015  |. Mayo Clinic Cancer Center, Scottsdale, Arizona, USA <br>
+MENTOR: Dr. Michael T. Barrett, Ph.D
+
+• Post-doctoral Researcher <br>
+Oct 2007 - Dec 2012  |  Genetics Branch, National Cancer Institute (NCI), National Institutes of Health (NIH), Bethesda, Maryland <br>
+MENTOR: Dr. Paul S. Meltzer, M.D., Ph.D. <br>
 
 ## EXPERTISE
 ### Bioinformatics and Genomics
 Analysis of DNA and RNA sequencing, including genome sequence assembly, sequence alignment, variant calling, genome annotation, visualization, and inspection of genome assemblies, variants, and rearrangements. Developed ABySS 2.0 to assemble twenty gigabase conifer genomes, seven times the size of human.
-
 ### Sequencing Technologies and Genomic Assays
 10x Genomics Chromium, Illumina HiSeq
-
 ### Programming Languages
 Java, Python, R, Shell
-
 ### Cloud and Containerization
 AWS, Docker
-
 ### Version Control
 Git and GitHub
-
 ### Visualisation:
 Jupyter, R
-
 Web design:
 HTML5, CSS, Django, JS
-
 Cluster computing
 
 ## EDUCATION
+• MSc Bioinformatics <br>
+2018 - current  |  Advanced Academic Programs, Krieger School of Arts & Sciences, Johns Hopkins University, Baltimore, MD
+
 • PhD Experimental Oncology <br>
-2007  |  Department of Oncology, Institute for Clinical Sciences, Lund University Hospital, Lund, Sweden.
+2003 - 2007  |  Department of Oncology, Institute for Clinical Sciences, Lund University Hospital, Lund, Sweden.
 
 • MSc Applied Genetics <br>
-2001  |  Centre for Applied Genetics, Bangalore University, Jnana Bharathi, Bangalore, Karnataka, India
+1999 - 2001  |  Centre for Applied Genetics, Bangalore University, Jnana Bharathi, Bangalore, Karnataka, India
 
 • BSc Chemistry, Zoology, Microbiology <br>
-1999  |  B.H.S. First Grade College, Bangalore University, Jayanagar, Bangalore, Karnataka, India
+1996 - 1999  |  B.H.S. First Grade College, Bangalore University, Jayanagar, Bangalore, Karnataka, India
 
 
 ## ADDITIONAL TRAINING
