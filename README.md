@@ -18,7 +18,7 @@ MENTOR: Dr. Paul S. Meltzer, M.D., Ph.D.
 <br><br>
 
 ## EDUCATION
-• **MSc Bioinformatics** [_2018 - present_] <br>
+• **MS Bioinformatics** [_2018 - present_] <br>
 Advanced Academic Programs, Krieger School of Arts & Sciences, Johns Hopkins University, Baltimore, MD, USA
 
 • **PhD Experimental Oncology** [_2003 - 2007_] <br>
@@ -32,13 +32,13 @@ B.H.S. First Grade College, Bangalore University, Jayanagar, Bangalore, India
 <br><br>
 
 ## ADDITIONAL TRAINING
-• **Lab Assistant** [_Nov 2001 – Jan 2003_] <br>
+• **Lab Assistant** [_2001 – 2003_] <br>
 Department of Biochemistry, Indian Institute of Science (IISc), Bangalore, India <br>
   
-• **Computational Analysis of Microarray Data** [_Aug 2001 – Oct 2001_] <br>
+• **Computational Analysis of Microarray Data** [_2001_] <br>
 Department of Cell Biology and Microbiology, IISc, Bangalore, India <br>
   
-• **Advanced Certification Course in Bioinformatics** [_May 2001 – Jul 2001_] <br>
+• **Advanced Certification Course in Bioinformatics** [_2001_] <br>
 Manvish Infotech Limited, Bangalore, Karnataka, India
 <br><br>
 
