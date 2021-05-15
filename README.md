@@ -1,5 +1,5 @@
 
-# PRINCY FRANCIS   •   CV
+# PRINCY FRANCIS
 [📧 JHU](mailto:pfranc10@jh.edu) • [📧 NIH](mailto:francisp2@nih.gov)  • [📧 Gmail](mailto:princyfrancis24@gmail.com) <br>
 ☏ +1 301 646 4414 • MD, USA
 <br><br>
@@ -18,22 +18,22 @@ MENTOR: Dr. Paul S. Meltzer, M.D., Ph.D.
 <br><br>
 
 ## EDUCATION
-• **MSc Bioinformatics** [_2018 - present_] <br>
+• [_2018 - present_] **MSc Bioinformatics** <br>
 Advanced Academic Programs, Krieger School of Arts & Sciences, Johns Hopkins University, Baltimore, MD, USA
 
-• **PhD Experimental Oncology** [_2003 - 2007_] <br>
+• [_2003 - 2007_] **PhD Experimental Oncology** <br>
 Department of Oncology, Institute for Clinical Sciences, Lund University Hospital, Lund, Sweden
 
-• **MSc Applied Genetics** [_1999 - 2001_] <br>
+• [_1999 - 2001_] **MSc Applied Genetics** <br>
 Centre for Applied Genetics, Bangalore University, Jnana Bharathi, Bangalore, India
 
-• **BSc Chemistry, Zoology, Microbiology** [_1996 - 1999_] <br>
+• [_1996 - 1999_] **BSc Chemistry, Zoology, Microbiology** <br>
 B.H.S. First Grade College, Bangalore University, Jayanagar, Bangalore, India
 <br><br>
 
 ## ADDITIONAL TRAINING
-• **Lab Assistant** <br>
-_Nov 2001 – Jan 2003_  |  Department of Biochemistry, Indian Institute of Science (IISc), Bangalore, India <br>
+• [_Nov 2001 – Jan 2003_] **Lab Assistant** <br>
+Department of Biochemistry, Indian Institute of Science (IISc), Bangalore, India <br>
   
 • **Computational Analysis of Microarray** Data <br>
 _Aug 2001 – Oct 2001_  | Department of Cell Biology and Microbiology, IISc, Bangalore, India <br>
