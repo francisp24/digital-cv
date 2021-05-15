@@ -44,17 +44,17 @@ Manvish Infotech Limited, Bangalore, Karnataka, India
 
 ## EXPERTISE
 • **Sequencing technologies and genomic assays:** Illumina, miRNA sequencing, miRNA microarrays etc. 
-• **NGS anaysis:** Analysis of DNA and RNA sequencing, sequence assembly, sequence alignment, variant calling, genome annotation etc. 
+• **NGS anaysis:** Analysis of DNA and RNA sequencing, sequence assembly, sequence alignment, variant calling, genome annotation, miRNA-seq, RNA-seq, ChIP-seq etc. 
 • **Genomics tools:** UCSC Genome Browser, Ensembl, IGV, IGB, miRBase etc. 
-• **Programming Languages:** Java, Python, R, Shell
+• **Programming Languages:** Java, Python, CGI, R, Shell
+• **Database management systems:** MySQL, chado, 
 • **Cloud and Containerization:** AWS, Docker
 • **Version Control: Git and GitHub
-• **Visualisation:** Jupyter, R
-• **Web design:** HTML5, CSS, JS
-• **Cluster:** NIH HPC Biowulf cluster
+• **Visualisation:** R, Jupyter
+• **Web design:** PHP, HTML/CSS, javascript/jQuer
 • **Pathway analysis:** DAVID EASE, Ingenuity IPA, BIOCARTA, GenMAPP, ExPASy, KEGG
 • **Microarray data analysis:** Cluster, TreeView, TM4 MultiExperiment Viewer, GeneSpring GX, Agilent CGH Analytics, Agilent Genomic Workbench, BioDiscovery Nexus Expression, Nexus Copy Number, GenomeStudio, BeadStudio
-• **Operating Systems:** UNIX/LINUX 
+• **Operating Systems:** Unix/Linux systems including NIH HPC Biowulf cluster environments
 <br><br>
 
 ## PUBLICATIONS
