@@ -61,13 +61,11 @@ Cluster computing
 
 <br><br>
 ## PUBLICATIONS
-• Jones MF, Hara T, Francis P, Li XL, Bilke S, Zhu Y, Pineda M, Subramanian M, Bodmer WF, Lal A. **The CDX1-microRNA-215 axis regulates colorectal cancer stem cell differentiation.** Proc Natl Acad Sci U S A. 2015 Mar 31;112(13):E1550-8. doi: 10.1073/pnas.1503370112. Epub 2015 Mar 16. PMID: 25775580; PMCID: PMC4386393.
-
-• Gindin Y, Jiang Y, Francis P, Walker RL, Abaan OD, Zhu YJ, Meltzer PS. Mir-23a impairs bone differentiation in osteosarcoma via down-regulation of GJA1. Front Genet. 2015 Jul 2.
+• Gindin Y, Jiang Y, Francis P, Walker RL, Abaan OD, Zhu YJ, Meltzer PS. _Mir-23a impairs bone differentiation in osteosarcoma via down-regulation of GJA1._ Front Genet. 2015 Jul 2.
 
 • Jones MF, Hara T, Francis P, Li XL, Bilke S, Zhu Y, Pineda M, Subramanian M, Bodmer WF, Lal A. The CDX1-microRNA-215 axis regulates colorectal cancer stem cell differentiation. Proc Natl Acad Sci U S A. 2015 Mar 3.
 
-• Subramanian M, Francis P, Bilke S, Li XL, Hara T, Lu X, Jones MF, Walker RL, Zhu Y, Pineda M, Lee C, Varanasi L, Yang Y, Martinez LA, Luo J, Ambs S, Sharma S, Wakefield LM, Meltzer PS, Lal A. A mutant p53/let-7i-axis-regulated gene network drives cell migration, invasion and metastasis. Oncogene. 2014 Mar 24.
+• Subramanian M, Francis P, Bilke S, Li XL, Hara T, Lu X, Jones MF, Walker RL, Zhu Y, Pineda M, Lee C, Varanasi L, Yang Y, Martinez LA, Luo J, Ambs S, Sharma S, Wakefield LM, Meltzer PS, Lal A. _A mutant p53/let-7i-axis-regulated gene network drives cell migration, invasion and metastasis._ Oncogene. 2014 Mar 24.
 
 • Egan JB, Barrett MT, Champion MD, Middha S, Lenkiewicz E, Evers L, Francis P, Schmidt J, Shi CX, Van Wier S, Badar S, Ahmann G, Kortuem KM, Boczek NJ, Fonseca R, Craig DW, Carpten JD, Borad MJ, Stewart AK. Whole Genome Analyses of a Well-Differentiated Liposarcoma Reveals Novel SYT1 and DDR2 Rearrangements. PLoS One. 2014 Feb 5.
 
