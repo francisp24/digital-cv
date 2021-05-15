@@ -5,30 +5,30 @@
 <br><br>
 
 ## EXPERIENCE
-• **Special Volunteer in Bioinformatics** [_2019 - present_] <br>
+• [_2019 - present_] **Special Volunteer in Bioinformatics** <br>
 Stem Cell Translation Laboratory, NCATS, NIH, Rockville, MD, USA
 
-• **Senior Research Fellow** [_2013 - 2015_] <br>
+• [_2013 - 2015_] **Senior Research Fellow** <br>
 Mayo Clinic Cancer Center, Scottsdale, AZ, USA <br>
 MENTOR: Dr. Michael T. Barrett, Ph.D
 
-• **Post-Doctoral Researcher** <br>
-_2007 - 2012_  |  Genetics Branch, NCI, NIH, Bethesda, MD, USA <br>
+• [_2007 - 2012_] **Post-Doctoral Researcher** <br>
+Genetics Branch, NCI, NIH, Bethesda, MD, USA <br>
 MENTOR: Dr. Paul S. Meltzer, M.D., Ph.D.
 <br><br>
 
 ## EDUCATION
-• **MSc Bioinformatics** <br>
-_2018 - present_  |  Advanced Academic Programs, Krieger School of Arts & Sciences, Johns Hopkins University, Baltimore, MD, USA
+• **MSc Bioinformatics** [_2018 - present_] <br>
+Advanced Academic Programs, Krieger School of Arts & Sciences, Johns Hopkins University, Baltimore, MD, USA
 
-• **PhD Experimental Oncology** <br>
-_2003 - 2007_  |  Department of Oncology, Institute for Clinical Sciences, Lund University Hospital, Lund, Sweden
+• **PhD Experimental Oncology** [_2003 - 2007_] <br>
+Department of Oncology, Institute for Clinical Sciences, Lund University Hospital, Lund, Sweden
 
-• **MSc Applied Genetics** <br>
-_1999 - 2001_  |  Centre for Applied Genetics, Bangalore University, Jnana Bharathi, Bangalore, India
+• **MSc Applied Genetics** [_1999 - 2001_] <br>
+Centre for Applied Genetics, Bangalore University, Jnana Bharathi, Bangalore, India
 
-• **BSc Chemistry, Zoology, Microbiology** <br>
-_1996 - 1999_  |  B.H.S. First Grade College, Bangalore University, Jayanagar, Bangalore, India
+• **BSc Chemistry, Zoology, Microbiology** [_1996 - 1999_] <br>
+B.H.S. First Grade College, Bangalore University, Jayanagar, Bangalore, India
 <br><br>
 
 ## ADDITIONAL TRAINING
