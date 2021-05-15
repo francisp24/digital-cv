@@ -61,6 +61,8 @@ Cluster computing
 
 <br><br>
 ## PUBLICATIONS
+• Jones MF, Hara T, Francis P, Li XL, Bilke S, Zhu Y, Pineda M, Subramanian M, Bodmer WF, Lal A. **The CDX1-microRNA-215 axis regulates colorectal cancer stem cell differentiation.** Proc Natl Acad Sci U S A. 2015 Mar 31;112(13):E1550-8. doi: 10.1073/pnas.1503370112. Epub 2015 Mar 16. PMID: 25775580; PMCID: PMC4386393.
+
 • Gindin Y, Jiang Y, Francis P, Walker RL, Abaan OD, Zhu YJ, Meltzer PS. Mir-23a impairs bone differentiation in osteosarcoma via down-regulation of GJA1. Front Genet. 2015 Jul 2.
 
 • Jones MF, Hara T, Francis P, Li XL, Bilke S, Zhu Y, Pineda M, Subramanian M, Bodmer WF, Lal A. The CDX1-microRNA-215 axis regulates colorectal cancer stem cell differentiation. Proc Natl Acad Sci U S A. 2015 Mar 3.
