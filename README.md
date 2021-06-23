@@ -41,20 +41,24 @@ Manvish Infotech Limited, Bangalore, Karnataka, India
 <br><br>
 
 ## EXPERTISE
-• **Sequencing technologies and genomic assays:** Illumina, miRNA sequencing, miRNA microarrays etc. 
-• **NGS analysis:** Analysis of DNA and RNA sequencing, sequence assembly, sequence alignment, variant calling, genome annotation, miRNA-seq, RNA-seq, ChIP-seq etc. 
-• **Genomics tools:** UCSC Genome Browser, Ensembl, IGV, IGB, miRBase etc. 
-• **Programming languages:** Java, Python, CGI, R, Shell
+### BIOINFORMATICS
+• **NGS data analysis:** Sequence assembly, sequence alignment, genome annotation, variant calling, WGS, WES, bulk RNA-seq, single-cell RNA-seq, miRNA-seq, ChIP-seq, methyl-seq
+• **Bioinformatics tools:** FASTQC, Trimmomatic, SRA Toolkit, BWA, Bowtie, Tophat, Cufflinks, SAMtools, GATK, Picard, PLINK, Freebayes, VCFtools, VarScan, ANNOVAR, VEP, snpEff, Delly, SVprops, IGV, MACS, PeakSeq, SPAdes, VCAKE, Edena, Velvet, Prokka, RSEM, Galaxy Tools, genome browsers (UCSC, Ensembl, IGV), R/Bioconductor packages (DESeq, Seurat), and various tools for analysis of miRNAs (miRDeep, miRDB, miRTAR, sRNAtoolbox), microarray data (Agilent CGH Analytics/Genomic Workbench, BioDiscovery Nexus Expression/Copy Number, BeadStudio), protein structure (I-TASSER, Phyre2, ConSurf), protein-protein interaction pathways(CytoScape, BioGrid, DAVID EASE), telomere length (Telseq, Telomerecat) etc.
+• **Programming languages:** Python, Java, CGI, R, Shell
+• **Web design: PHP, Perl DBI, HTML5/CSS3, Javascript/JQuery
 • **Database management systems:** MySQL, GMOD/Chado
 • **Visualisation:** R, Jupyter
 • **Cloud and containerization:** AWS, Docker
 • **Version control:** Git and GitHub
-• **Web design:** PHP, Perl DBI, HTML/CSS, javascript/jQuery
-• **Operating systems:** Unix/Linux systems including NIH HPC Biowulf cluster environments
-• **Pathway analysis:** DAVID EASE, Ingenuity IPA, BIOCARTA, GenMAPP, ExPASy, KEGG
-• **Protein structure analysis:** I-TASSER, Phyre2, ConSurf
-• **Microarray data analysis:** Cluster, TreeView, TM4 MultiExperiment Viewer, GeneSpring GX, Agilent CGH Analytics, Agilent Genomic Workbench, BioDiscovery Nexus Expression, Nexus Copy Number, GenomeStudio, BeadStudio
+• **Operating systems:** Unix/Linux systems including the NIH HPC Biowulf cluster environments
+• **Sequencing technologies and genomic assays:** Illumina, Ion Torrent, library preparation (exome-seq, RNA-seq, miRNA-seq), Illumina BeadArrays, allele-specific SNP-arrays, gene/miRNA expression microarrays, arrayCGH
+
+### GENOMICS | MOLECULAR BIOLOGY | CELL BIOLOGY
+• **Sequencing technologies and genomic assays:** Illumina, Ion Torrent, library preparation (exome-seq, RNA-seq, miRNA-seq), Illumina BeadArrays, allele-specific SNP-arrays, gene/miRNA expression microarrays, arrayCGH etc.
+• **Cell and tumor biology:** In vitro differentiation, osteoblast differentiation assays, DNA damaging, stable/transient transfections (Lipofectamine-2000, siPORT, RNAiMax), alkaline phosphatase activity, Matrigel invasion assay, wound healing assay, cell proliferation assay etc.
+• **MicroRNA (miRNA) biology:** Enrichment from tissues/cell, TaqMan assays for primary/mature miRNA, interference technologies (mimics, hairpin-inhibitors, antisense-oligonucleotides), in vitro manipulation, target identification (loss-of-function/gain-of-function experiments, biotin-tagged mimics), target validation (luciferase reporter assays), miRNA lentiviral expression and inhibitor vectors etc.
 <br><br>
+
 
 ## PUBLICATIONS
 • Gindin Y, Jiang Y, Francis P, Walker RL, Abaan OD, Zhu YJ, Meltzer PS. _Mir-23a impairs bone differentiation in osteosarcoma via down-regulation of GJA1._ Front Genet. 2015 Jul 2.
