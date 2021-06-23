@@ -10,11 +10,9 @@ Stem Cell Translation Laboratory, NCATS, NIH, Rockville, MD, USA
 
 • **Senior Research Fellow** [_2013 - 2015_] <br>
 Mayo Clinic Cancer Center, Scottsdale, AZ, USA <br>
-MENTOR: Dr. Michael T. Barrett, Ph.D
 
 • **Post-Doctoral Researcher** [_2007 - 2012_] <br>
 Genetics Branch, NCI, NIH, Bethesda, MD, USA <br>
-MENTOR: Dr. Paul S. Meltzer, M.D., Ph.D.
 <br><br>
 
 ## EDUCATION
