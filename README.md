@@ -13,7 +13,7 @@ Mayo Clinic Cancer Center, Scottsdale, AZ, USA <br>
 
 • **Post-Doctoral Researcher** [_2007 - 2012_] <br>
 Genetics Branch, NCI, NIH, Bethesda, MD, USA <br>
-<br><br>
+<br>
 
 ## EXPERTISE
 ### BIOINFORMATICS
@@ -30,7 +30,7 @@ Genetics Branch, NCI, NIH, Bethesda, MD, USA <br>
 ### GENOMICS | MOLECULAR BIOLOGY | CELL BIOLOGY
 • **Sequencing technologies and genomic assays:** Illumina, Ion Torrent, library preparation (exome-seq, RNA-seq, miRNA-seq), Illumina BeadArrays, allele-specific SNP-arrays, gene/miRNA expression microarrays, arrayCGH etc.
 • **Cell and tumor biology:** In vitro differentiation, osteoblast differentiation assays, DNA damaging, stable/transient transfections (Lipofectamine-2000, siPORT, RNAiMax), alkaline phosphatase activity, Matrigel invasion assay, wound healing assay, cell proliferation assay etc.
-• **MicroRNA (miRNA) biology:** Enrichment from tissues/cell, TaqMan assays for primary/mature miRNA, interference technologies (mimics, hairpin-inhibitors, antisense-oligonucleotides), in vitro manipulation, target identification (loss-of-function/gain-of-function experiments, biotin-tagged mimics), target validation (luciferase reporter assays), miRNA lentiviral expression and inhibitor vectors etc.
+• **miRNA biology:** Enrichment from tissues/cell, TaqMan assays for primary/mature miRNA, interference technologies (mimics, hairpin-inhibitors, antisense-oligonucleotides), in vitro manipulation, target identification (loss-of-function/gain-of-function experiments, biotin-tagged mimics), target validation (luciferase reporter assays), miRNA lentiviral expression and inhibitor vectors etc.
 <br><br>
 
 
