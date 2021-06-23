@@ -16,7 +16,7 @@ Genetics Branch, NCI, NIH, Bethesda, MD, USA <br>
 <br><br>
 
 ## EDUCATION
-• **MS Bioinformatics** [_2018 - present_] <br>
+• **MS Bioinformatics** [_2018 - 2021_] <br>
 Advanced Academic Programs, Krieger School of Arts & Sciences, Johns Hopkins University, Baltimore, MD, USA
 
 • **PhD Experimental Oncology** [_2003 - 2007_] <br>
