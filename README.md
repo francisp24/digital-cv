@@ -23,7 +23,6 @@ Genetics Branch, NCI, NIH, Bethesda, MD, USA <br>
 <br>• **Web design:** PHP, Perl DBI, HTML5/CSS3, Javascript/JQuery
 <br>• **Database management systems:** MySQL, GMOD/Chado
 <br>• **Visualisation:** R, Jupyter
-<br>• **Cloud and containerization:** AWS, Docker
 <br>• **Version control:** Git and GitHub
 <br>• **Operating systems:** Unix/Linux systems including the NIH HPC Biowulf cluster environments
 
