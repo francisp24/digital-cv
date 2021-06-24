@@ -28,7 +28,7 @@ Genetics Branch, NCI, NIH, Bethesda, MD, USA <br>
 
 ### GENOMICS | MOLECULAR BIOLOGY | CELL BIOLOGY
 • **Sequencing technologies and genomic assays:** Illumina, Ion Torrent, library preparation (exome-seq, RNA-seq, miRNA-seq), Illumina BeadArrays, allele-specific SNP-arrays, gene/miRNA expression microarrays, arrayCGH
-<br>• **Cell and tumor biology:** In vitro differentiation, osteoblast differentiation assays, DNA damaging, stable/transient transfections (Lipofectamine-2000, siPORT, RNAiMax), alkaline phosphatase activity, Matrigel invasion assay, wound healing assay, cell proliferation assay
+<br>• **Cell and tumor biology:** In-vitro osteoblast differentiation assays, stable/transient transfections (Lipofectamine-2000, siPORT, RNAiMax), alkaline phosphatase activity, Matrigel invasion assays, wound healing assays, cell proliferation assays
 <br>• **miRNA biology:** Enrichment from tissues/cell, TaqMan assays for primary/mature miRNA, interference technologies (mimics, hairpin-inhibitors, antisense-oligonucleotides), in vitro manipulation, target identification (loss-of-function/gain-of-function experiments, biotin-tagged mimics), target validation (luciferase reporter assays), miRNA lentiviral expression and inhibitor vectors
 <br><br>
 
