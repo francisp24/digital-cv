@@ -2,6 +2,9 @@
 # PRINCY FRANCIS
 [📧 JHU](mailto:pfranc10@jh.edu) • [📧 NIH](mailto:francisp2@nih.gov)  • [📧 Gmail](mailto:princyfrancis24@gmail.com) <br>
 ☏ +1 301 646 4414 • MD, USA
+<br>
+
+I’m a cancer biologist with years of experience on the “wet lab” side of genomics research charting a new career path in the rapidly advancing field of personalized medicine and precision health, where I am able to leverage my molecular biology/genomics skills together with my bioinformatics training to tackle important problems in clinical genomics.
 <br><br>
 
 ## EXPERIENCE
