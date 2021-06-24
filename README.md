@@ -18,19 +18,19 @@ Genetics Branch, NCI, NIH, Bethesda, MD, USA <br>
 ## EXPERTISE
 ### BIOINFORMATICS
 • **NGS data analysis:** Sequence assembly, sequence alignment, genome annotation, variant calling, WGS, WES, bulk RNA-seq, single-cell RNA-seq, miRNA-seq, ChIP-seq, methyl-seq
-• **Bioinformatics tools:** FASTQC, Trimmomatic, SRA Toolkit, BWA, Bowtie, Tophat, Cufflinks, SAMtools, GATK, Picard, PLINK, Freebayes, VCFtools, VarScan, ANNOVAR, VEP, snpEff, Delly, SVprops, IGV, MACS, PeakSeq, SPAdes, VCAKE, Edena, Velvet, Prokka, RSEM, Galaxy Tools, genome browsers (UCSC, Ensembl, IGV), R/Bioconductor packages (DESeq, Seurat), and various tools for analysis of miRNAs (miRDeep, miRDB, miRTAR, sRNAtoolbox), microarray data (Agilent CGH Analytics/Genomic Workbench, BioDiscovery Nexus Expression/Copy Number, BeadStudio), protein structure (I-TASSER, Phyre2, ConSurf), protein-protein interaction pathways(CytoScape, BioGrid, DAVID EASE), telomere length (Telseq, Telomerecat) etc.
-• **Programming languages:** Python, Java, CGI, R, Shell
-• **Web design:** PHP, Perl DBI, HTML5/CSS3, Javascript/JQuery
-• **Database management systems:** MySQL, GMOD/Chado
-• **Visualisation:** R, Jupyter
-• **Cloud and containerization:** AWS, Docker
-• **Version control:** Git and GitHub
-• **Operating systems:** Unix/Linux systems including the NIH HPC Biowulf cluster environments
+<br>• **Bioinformatics tools:** FASTQC, Trimmomatic, SRA Toolkit, BWA, Bowtie, Tophat, Cufflinks, SAMtools, GATK, Picard, PLINK, Freebayes, VCFtools, VarScan, ANNOVAR, VEP, snpEff, Delly, SVprops, IGV, MACS, PeakSeq, SPAdes, VCAKE, Edena, Velvet, Prokka, RSEM, Galaxy Tools, genome browsers (UCSC, Ensembl, IGV), R/Bioconductor packages (DESeq, Seurat), and various tools for analysis of miRNAs (miRDeep, miRDB, miRTAR, sRNAtoolbox), microarray data (Agilent CGH Analytics/Genomic Workbench, BioDiscovery Nexus Expression/Copy Number, BeadStudio), protein structure (I-TASSER, Phyre2, ConSurf), protein-protein interaction pathways(CytoScape, BioGrid, DAVID EASE), telomere length (Telseq, Telomerecat)
+<br>• **Programming languages:** Python, Java, CGI, R, Shell
+<br>• **Web design:** PHP, Perl DBI, HTML5/CSS3, Javascript/JQuery
+<br>• **Database management systems:** MySQL, GMOD/Chado
+<br>• **Visualisation:** R, Jupyter
+<br>• **Cloud and containerization:** AWS, Docker
+<br>• **Version control:** Git and GitHub
+<br>• **Operating systems:** Unix/Linux systems including the NIH HPC Biowulf cluster environments
 
 ### GENOMICS | MOLECULAR BIOLOGY | CELL BIOLOGY
-• **Sequencing technologies and genomic assays:** Illumina, Ion Torrent, library preparation (exome-seq, RNA-seq, miRNA-seq), Illumina BeadArrays, allele-specific SNP-arrays, gene/miRNA expression microarrays, arrayCGH etc.
-<br>• **Cell and tumor biology:** In vitro differentiation, osteoblast differentiation assays, DNA damaging, stable/transient transfections (Lipofectamine-2000, siPORT, RNAiMax), alkaline phosphatase activity, Matrigel invasion assay, wound healing assay, cell proliferation assay etc.
-<br>• **miRNA biology:** Enrichment from tissues/cell, TaqMan assays for primary/mature miRNA, interference technologies (mimics, hairpin-inhibitors, antisense-oligonucleotides), in vitro manipulation, target identification (loss-of-function/gain-of-function experiments, biotin-tagged mimics), target validation (luciferase reporter assays), miRNA lentiviral expression and inhibitor vectors etc.
+• **Sequencing technologies and genomic assays:** Illumina, Ion Torrent, library preparation (exome-seq, RNA-seq, miRNA-seq), Illumina BeadArrays, allele-specific SNP-arrays, gene/miRNA expression microarrays, arrayCGH
+<br>• **Cell and tumor biology:** In vitro differentiation, osteoblast differentiation assays, DNA damaging, stable/transient transfections (Lipofectamine-2000, siPORT, RNAiMax), alkaline phosphatase activity, Matrigel invasion assay, wound healing assay, cell proliferation assay
+<br>• **miRNA biology:** Enrichment from tissues/cell, TaqMan assays for primary/mature miRNA, interference technologies (mimics, hairpin-inhibitors, antisense-oligonucleotides), in vitro manipulation, target identification (loss-of-function/gain-of-function experiments, biotin-tagged mimics), target validation (luciferase reporter assays), miRNA lentiviral expression and inhibitor vectors
 <br><br>
 
 
