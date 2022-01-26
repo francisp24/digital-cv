@@ -8,7 +8,10 @@ I’m a cancer biologist with years of experience on the “wet lab” side of g
 <br><br>
 
 ## EXPERIENCE
-• **Special Volunteer in Bioinformatics** [_2019 - present_] <br>
+• **Research and Development Lead** [_2021 - Present_] <br>
+Predictiv Care, Mountain View, CA, USA
+
+• **Special Volunteer in Bioinformatics** [_2019 - 2021_] <br>
 Stem Cell Translation Laboratory, NCATS, NIH, Rockville, MD, USA
 
 • **Senior Research Fellow** [_2013 - 2015_] <br>
@@ -25,6 +28,7 @@ Genetics Branch, NCI, NIH, Bethesda, MD, USA <br>
 <br>• **Programming languages:** Python, Java, CGI, R, Shell
 <br>• **Web design:** PHP, Perl DBI, HTML5/CSS3, Javascript/JQuery
 <br>• **Database management systems:** MySQL, GMOD/Chado
+<br>• **Machine Learning:** PyTorch, TensorFlow, Scikit-learn
 <br>• **Visualisation:** R, Jupyter
 <br>• **Version control:** Git and GitHub
 <br>• **Operating systems:** Unix/Linux systems including the NIH HPC Biowulf cluster environments
